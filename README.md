@@ -9,7 +9,7 @@ To use this, copy it to the stock Brick card and overwrite all files when promot
 - Replaces the Engrish icons and backgrounds for more sensible ones
 	- Burst! icons by Skylance
 	- Epic Noir backgrounds by tenlevels
-- Apps several helpful apps from Steve of Tomato OS
+- Adds several helpful apps from Steve of Tomato OS
 	- Remove and Restore the clicking menu sound
 	- Stop and start the background music
 	- Sort the Favorite list
