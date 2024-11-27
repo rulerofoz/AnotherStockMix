@@ -2,7 +2,7 @@ StockMix for TrimUI Brick
 
 This is a small set of changes intended for the stock TrimUI Brick card.
 
-To use this, copy it to the stock Brick card and overwrite all files when promoted.
+To use this, copy it to the stock Brick card and overwrite all files when prompted.
 If you are starting with a blank card, first copy the SD base package from here:
 https://github.com/trimui/assets_brick/releases
 
