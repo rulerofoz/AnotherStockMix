@@ -1,8 +1,8 @@
 StockMix for TrimUI Brick
 
-This is a small set of changes intended to be copied over the default TrimUI Brick card.
+This is a small set of changes intended to for the stock TrimUI Brick card.
 
-To use this, copy it to stock Brick card and overwrite all files when promoted.
+To use this, copy it to the stock Brick card and overwrite all files when promoted.
 
 - Replaces the Dreamcast emulator with Flycast standalone for increased framerate
 - Updates the SNES emulator from Snes9x 2005 to Snes9x Current. This increases performance and compatibility
