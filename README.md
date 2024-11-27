@@ -12,6 +12,6 @@ https://github.com/trimui/assets_brick/releases
 	- Burst! icons by Skylance
 	- Epic Noir backgrounds by tenlevels
 - Adds several helpful apps from Steve of Tomato OS
-	- Remove and Restore the clicking menu sound
+	- Remove and restore the clicking menu sound
 	- Stop and start the background music
 	- Sort the Favorite list
