@@ -7,6 +7,7 @@ If you are starting with a blank card, first copy the SD base package from here:
 https://github.com/trimui/assets_brick/releases
 
 - Replaces the Dreamcast emulator with Flycast standalone from CrossMix for increased framerate
+- Updates the Nintendo DS emulator Drastic to remove audio choppiness
 - Updates the SNES emulator from Snes9x 2005 to Snes9x Current. This increases performance and compatibility
 - Replaces the Engrish icons and deletes the weird stock backgrounds
 	- Burst! icons by Skylance
