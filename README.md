@@ -8,9 +8,8 @@ https://github.com/trimui/assets_brick/releases
 
 - Replaces the Dreamcast emulator with Flycast standalone from CrossMix for increased framerate
 - Updates the SNES emulator from Snes9x 2005 to Snes9x Current. This increases performance and compatibility
-- Replaces the Engrish icons and backgrounds for more sensible ones
+- Replaces the Engrish icons and deletes the weird stock backgrounds
 	- Burst! icons by Skylance
-	- Epic Noir backgrounds by tenlevels
 - Adds several helpful apps from Steve of Tomato OS
 	- Remove and restore the clicking menu sound
 	- Stop and start the background music
