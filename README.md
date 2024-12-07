@@ -7,6 +7,7 @@ If you are starting with a blank card, first copy the SD base package from here:
 https://github.com/trimui/assets_brick/releases
 
 - Replaces the Dreamcast emulator with Flycast standalone from CrossMix for increased framerate
+- Replaces Fake-08 with PICO-8 from CrossMix for full compatibility. Add retail pico8.dat & pico8_64 to \Emus\PICO8\PICO8_Wrapper\bin
 - Updates PPSSPP to use the older 1.15.4 for increased framerate. This fixes Outrun 2006
 - Updates the Nintendo DS emulator Drastic to remove audio choppiness -Thanks Nevrdid!
 - Updates the Nintendo DS emulator Drastic to use full screen. Use L2 to toggle the screen -Thanks caldeio!
