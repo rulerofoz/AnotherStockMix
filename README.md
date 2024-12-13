@@ -16,7 +16,7 @@ https://github.com/trimui/assets_brick/releases
 - Adds alternate controller remappings for NES/GB to use X/A in addition to B/A
 - Replaces the Engrish icons and deletes the weird stock backgrounds
 	- Burst! icons by Skylance
-- Adds SwitchStartTab app to sets Favorites at the startup tab - Thanks Nevrdid!
+- Adds SwitchStartTab app to load Favorites at startup - Thanks Nevrdid!
 - Adds several helpful apps from Steve of Tomato OS
 	- Remove and restore the clicking menu sound
 	- Stop and start the background music
