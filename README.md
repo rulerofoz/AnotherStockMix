@@ -17,6 +17,7 @@ https://github.com/trimui/assets_brick/releases
 - Replaces the Engrish icons and deletes the weird stock backgrounds
 	- Burst! icons by Skylance
 - Adds SwitchStartTab app to load Favorites at startup - Thanks Nevrdid!
+- Swaps the top function buttons to be select/start - Thanks Nevrdid!
 - Adds several helpful apps from Steve of Tomato OS
 	- Remove and restore the clicking menu sound
 	- Stop and start the background music
