@@ -16,7 +16,7 @@ https://github.com/trimui/assets_brick/releases
 - Adds alternate controller remappings for NES/GB to use X/A in addition to B/A
 - Adds TRIMUI Grey theme by inteLLiAim
 - Replaces the Engrish icons and deletes the weird stock backgrounds
-	- Burst! icons by Skylance
+	- Greys-Dark icons by tenlevels
 - Adds SwitchStartTab app to load Favorites at startup -Thanks Nevrdid!
 - Swaps the top function buttons to be select/start -Thanks Nevrdid!
 - Adds several helpful apps from Steve of Tomato OS
