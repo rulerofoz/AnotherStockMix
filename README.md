@@ -14,7 +14,7 @@ https://github.com/trimui/assets_brick/releases
 - Updates the Nintendo DS emulator Drastic to use full screen. Use L2 to toggle the screen -Thanks caldeio!
 - Updates the SNES emulator from Snes9x 2005 to Snes9x Current. This increases performance and compatibility
 - Adds alternate controller remappings for NES/GB to use X/A in addition to B/A
-- Adds TRIMUI Grey theme by inteLLiAim
+- Adds Dark, Purple, Red themes
 - Replaces the Engrish icons and deletes the weird stock backgrounds
 	- Greys-Dark icons by tenlevels
 - Adds SwitchStartTab app to load Favorites at startup -Thanks Nevrdid!
