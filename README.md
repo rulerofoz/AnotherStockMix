@@ -36,3 +36,12 @@ Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-202412
 5.  Insert the MicroSD card.
 6.  Turn on the Brick and let it update.
 7.  When done, delete the file.
+
+
+
+
+Credits:
+trimui for the default code
+costlyclick for the original stockmix
+ro8inmorgan for LEDControl
+RWGlix for the extra rom categories
