@@ -1,6 +1,7 @@
 AnotherStockMix for TrimUI Brick
 
-This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card. 
+This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.
+You can even start with a blank microSD card!
 
 INSTRUCTIONS
 
@@ -27,16 +28,11 @@ Notes on cheats.  If you would like cheats, extract "/RetroArch/.retroarch/cheat
 
 Notes on button swapping.  You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.
 
-
-
 FIRMWARE
 
-As of this writing, I am using Brick firmware 1.0.6.  Here are the instructions on how to update to it.
-
-I highly recommend it, because there are some changes to charging.
+As of this writing, I am using Brick firmware 1.0.6.  Here are the instructions on how to update to it. I highly recommend it, because there are some changes to charging.
 
 Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215
-
 1.  Download "firmware_Brick_tg3040_....zip"
 2.  Format your MicroSD card to FAT32.
 3.  Find the file "trimui_tg3040.awimg" and copy it to the root directory of your MicroSD card.
