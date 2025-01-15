@@ -1,0 +1,28 @@
+{
+    "label":"DOSBox",
+    "icontop":"../_theme/ic-gba.png",
+    "icon":"",
+    "background":"../_theme/bg-gba.png",
+    "themecolor":"FF00FF",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/DOS",
+    "imgpath":"../../Imgs/DOS",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":1,
+    "extlist":"img|com|bat|exe|zip|7z",
+    "launchlist": [
+        {
+            "name": "DOSbox-pure",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "DOSbox-core",
+            "launch": "launch_dbc.sh"
+        },
+        {
+            "name": "DOSbox",
+            "launch": "launch_db.sh"
+        }
+    ]
+}
