@@ -1,0 +1,1 @@
+You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.

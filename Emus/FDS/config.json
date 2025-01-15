@@ -1,0 +1,26 @@
+{
+    "label":"FC DiskSystem",
+    "label.ch.lang":"FDS",
+    "icontop":"../_theme/ic-fds.png",
+    "icon":"",
+    "background":"../_theme/bg-fds.png",
+    "effectsh":"effect.sh",
+    "themecolor":"991615",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/FDS",
+    "imgpath":"../../Imgs/FDS",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":0,
+    "extlist":"nes|fds|unf|unif|zip|7z",
+    "launchlist": [
+        {
+            "name": "FCEUmm",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "Nestopia",
+            "launch": "launch_nestopia.sh"
+        }
+    ]
+}

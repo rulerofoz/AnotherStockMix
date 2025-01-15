@@ -1,0 +1,14 @@
+{
+"label":"NEOGEO Pocket",
+"icontop":"../_theme/ic-ngp.png",
+"icon":"",
+"background":"../_theme/bg-ngp.png",
+"themecolor":"FFFFFF",
+"launch":"launch.sh",
+"rompath":"../../Roms/NGP",
+"imgpath":"../../Imgs/NGP",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"ngc|ngp|zip|7z"
+}

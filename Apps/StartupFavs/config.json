@@ -1,0 +1,6 @@
+{
+    "label":	"StartupFavs",
+    "icon":	"icon.png",
+    "launch":	"launch.sh",
+    "description":	"Switch the starting tab"
+}

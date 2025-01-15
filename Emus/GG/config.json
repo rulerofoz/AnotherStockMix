@@ -1,0 +1,13 @@
+{
+"label":"Game Gear",
+"icontop":"../_theme/ic-gg.png",
+"icon":"",
+"background":"../_theme/bg-gg.png",
+"themecolor":"FFFFFF",
+"launch":"launch.sh",
+"rompath":"../../Roms/GG",
+"imgpath":"../../Imgs/GG",
+"useswap":1,
+"shortname":0,
+"hidebios":1
+}

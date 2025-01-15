@@ -1,0 +1,13 @@
+{
+"label":"Atari 7800",
+"icontop":"../_theme/ic-atari7800.png",
+"icon":"",
+"background":"../_theme/bg-atari7800.png",
+"themecolor":"A569BD",
+"launch":"launch.sh",
+"rompath":"../../Roms/ATARI7800",
+"imgpath":"../../Imgs/ATARI7800",
+"useswap":0,
+"shortname":0,
+"hidebios":0
+}

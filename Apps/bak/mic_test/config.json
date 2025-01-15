@@ -1,0 +1,8 @@
+{
+"package":"com.trimui.mic_test1",
+"label":"录音测试1",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"录音与放音测试"
+}

@@ -1,0 +1,14 @@
+{
+"label":"CPS1",
+"icontop":"../_theme/ic-cps1.png",
+"icon":"",
+"background":"../_theme/bg-cps1.png",
+"themecolor":"0000FF",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPS1",
+"imgpath":"../../Imgs/CPS1",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

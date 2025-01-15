@@ -1,0 +1,10 @@
+{
+    "package":"com.retroarch.game2048",
+    "label":"2048",
+    "icontop":"ic-2048.png",
+    "icon":"",
+    "background":"bg.png",
+    "themecolor":"FFFFFF",
+    "launch":"launch.sh",
+    "description":"Libretro 2048"
+}

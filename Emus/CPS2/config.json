@@ -1,0 +1,15 @@
+{
+"label":"CP System II",
+"icontop":"../_theme/ic-cps2.png",
+"icon":"",
+"background":"../_theme/bg-cps2.png",
+"themecolor":"FFFF00",
+"effectsh":"effect.sh",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPS2",
+"imgpath":"../../Imgs/CPS2",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip|7z"
+}

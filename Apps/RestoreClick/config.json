@@ -1,0 +1,7 @@
+{
+"label":"Restore Click",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Restore Icon Select Sound"
+}

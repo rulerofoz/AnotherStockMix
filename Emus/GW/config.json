@@ -1,0 +1,13 @@
+{
+"label":"Game&Watch",
+"icontop":"../_theme/ic-gw.png",
+"icon":"",
+"background":"../_theme/bg-gw.png",
+"themecolor":"FF0000",
+"launch":"launch.sh",
+"rompath":"../../Roms/GW",
+"imgpath":"../../Imgs/GW",
+"useswap":1,
+"shortname":0,
+"hidebios":1
+}

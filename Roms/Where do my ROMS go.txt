@@ -1,0 +1,8 @@
+The folders here correspond to the abbreviation of the Japanese/European system name.
+
+FC = Famicom = NES
+SFC = Super Famicom = SNES
+MD = Mega Drive = Genesis
+etc. etc. etc.
+
+Where you do you find ROMS?  I don't know, but I'm sure there is an 'archive' of them somewhere on the internet...

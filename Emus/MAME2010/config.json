@@ -1,0 +1,14 @@
+{
+"label":"MAME 2010",
+"icontop":"../_theme/ic-mame2010.png",
+"icon":"",
+"background":"../_theme/bg-mame2010.png",
+"themecolor":"C01A2E",
+"launch":"launch.sh",
+"rompath":"../../Roms/MAME2010",
+"imgpath":"../../Imgs/MAME2010",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

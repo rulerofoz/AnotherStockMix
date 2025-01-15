@@ -1,0 +1,14 @@
+{
+"label":"MAME",
+"icontop":"../_theme/ic-mame.png",
+"icon":"",
+"background":"../_theme/bg-mame.png",
+"themecolor":"63C3F3",
+"launch":"launch.sh",
+"rompath":"../../Roms/MAME",
+"imgpath":"../../Imgs/MAME",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip|7z"
+}

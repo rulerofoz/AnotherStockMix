@@ -1,0 +1,25 @@
+{
+    "label":"CP System III",
+    "icontop":"../_theme/ic-cps3.png",
+    "icon":"",
+    "background":"../_theme/bg-cps3.png",
+    "themecolor":"FF4400",
+    "effectsh":"effect.sh",
+    "launch":"launch_fbneo.sh",
+    "rompath":"../../Roms/CPS3",
+    "imgpath":"../../Imgs/CPS3",
+    "useswap":1,
+    "shortname":1,
+    "hidebios":1,
+    "extlist":"zip",
+    "launchlist": [
+        {
+            "name": "FBNEO",
+            "launch": "launch_fbneo.sh"
+        },
+        {
+            "name": "FBA2012 CPS3",
+            "launch": "launch.sh"
+        }
+    ]
+}

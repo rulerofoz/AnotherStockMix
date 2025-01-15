@@ -1,0 +1,24 @@
+{
+"label":"FinalBurnNEO",
+"icontop":"../_theme/ic-fbneo.png",
+"icon":"",
+"background":"../_theme/bg-fbneo.png",
+"themecolor":"EC7063",
+"launch":"launch_performance.sh",
+"rompath":"../../Roms/FBNEO",
+"imgpath":"../../Imgs/FBNEO",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip",
+    "launchlist": [
+        {
+            "name": "FBNEO Performance Mode",
+            "launch": "launch_performance.sh"
+        },
+        {
+            "name": "FBNEO",
+            "launch": "launch.sh"
+        }
+    ]
+}

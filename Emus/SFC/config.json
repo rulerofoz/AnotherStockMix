@@ -1,0 +1,32 @@
+{
+    "label":"Super NES",
+    "icontop":"../_theme/ic-sfc.png",
+    "icon":"",
+    "background":"../_theme/bg-sfc.png",
+    "themecolor":"FF0000",
+    "launch":"launch_snes9x.sh",
+    "rompath":"../../Roms/SFC",
+    "imgpath":"../../Imgs/SFC",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":0,
+    "extlist":"smc|fig|sfc|gd3|gd7|dx2|bsx|swc|zip|7z",
+    "launchlist": [
+        {
+            "name": "Snes9x2005",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "Snes9x2005 Plus",
+            "launch": "launch_snes9x2005_plus.sh"
+        },
+        {
+            "name": "Snes9x2010",
+            "launch": "launch_snes9x2010.sh"
+        },
+        {
+            "name": "Snes9x Latest",
+            "launch": "launch_snes9x.sh"
+        }
+    ]
+}

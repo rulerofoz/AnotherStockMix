@@ -1,0 +1,8 @@
+{
+"package":"com.trimui.panel_test1",
+"label":"屏幕测试",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"屏幕颜色和图片测试"
+}

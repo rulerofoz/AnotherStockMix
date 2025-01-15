@@ -1,0 +1,14 @@
+{
+"label":"Arcade",
+"icontop":"../_theme/ic-arcade.png",
+"icon":"",
+"background":"../_theme/bg-arcade.png",
+"themecolor":"CD6155",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARCADE",
+"imgpath":"../../Imgs/ARCADE",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip|7z"
+}

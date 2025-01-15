@@ -1,0 +1,13 @@
+{
+"label":"PICO-8",
+"icontop":"../_theme/ic-pico8.png",
+"icon":"",
+"background":"../_theme/bg-pico8.png",
+"themecolor":"00FF88",
+"launch":"launch.sh",
+"rompath":"../../Roms/PICO8",
+"imgpath":"../../Imgs/PICO8",
+"useswap":1,
+"shortname":0,
+"hidebios":1
+}

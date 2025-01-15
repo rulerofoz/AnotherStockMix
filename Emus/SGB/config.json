@@ -1,0 +1,20 @@
+{
+    "label":"Super GameBoy",
+    "icontop":"../_theme/ic-sgb.png",
+    "icon":"",
+    "background":"../_theme/bg-sgb.png",
+    "themecolor":"FFB800",
+    "launch":"launch_mgba.sh",
+    "rompath":"../../Roms/SGB",
+    "imgpath":"../../Imgs/SGB",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":0,
+    "extlist":"gb|gbc|zip|7z",
+    "launchlist": [
+        {
+            "name": "mGBA",
+            "launch": "launch_mgba.sh"
+        }
+    ]
+}

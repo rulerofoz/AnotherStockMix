@@ -1,0 +1,24 @@
+{
+    "label":"GameBoy Color",
+    "icontop":"../_theme/ic-gbc.png",
+    "icon":"",
+    "background":"../_theme/bg-gbc.png",
+    "themecolor":"FFB800",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/GBC",
+    "imgpath":"../../Imgs/GBC",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":0,
+    "extlist":"gb|gbc|zip|7z",
+    "launchlist": [
+        {
+            "name": "GamBatte",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "mGBA",
+            "launch": "launch_mgba.sh"
+        }
+    ]
+}

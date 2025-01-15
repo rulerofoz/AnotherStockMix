@@ -1,0 +1,13 @@
+{
+"label":"Sega Saturn",
+"icontop":"../_theme/ic-saturn.png",
+"icon":"",
+"background":"../_theme/bg-saturn.png",
+"themecolor":"E4007F",
+"launch":"launch.sh",
+"rompath":"../../Roms/SS",
+"imgpath":"../../Imgs/SS",
+"useswap":1,
+"shortname":0,
+"hidebios":1
+}

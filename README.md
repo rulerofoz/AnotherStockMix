@@ -1,25 +1,38 @@
-StockMix for TrimUI Brick
+AnotherStockMix for TrimUI Brick
 
-This is a small set of changes intended for the stock TrimUI Brick card.
+This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card. 
 
-To use this, copy it to the stock Brick card and overwrite all files when prompted.
-If you are starting with a blank card, first copy the SD base package from here:
-https://github.com/trimui/assets_brick/releases
+Copy these files to a FAT32 or exFAT formatted MicroSD card.
+You are responsible for adding any ROMs to the Roms folder.
 
-- Replaces the Dreamcast emulator with Flycast standalone from CrossMix for increased framerate
-- Replaces Fake-08 with PICO-8 from CrossMix for full compatibility
-	- Add retail (Raspberry version) pico8.dat & pico8_64 to \Emus\PICO8\PICO8_Wrapper\bin
-- Updates PPSSPP to use the older 1.15.4 for increased framerate. This fixes Outrun 2006
-- Updates the Nintendo DS emulator Drastic to fix audio and use sharper scaling -Thanks Nevrdid!
-- Updates the Nintendo DS emulator Drastic to use full screen. Use L2 to toggle the screen -Thanks caldeio!
-- Updates the SNES emulator from Snes9x 2005 to Snes9x Current. This increases performance and compatibility
-- Adds alternate controller remappings for NES/GB to use X/A in addition to B/A
-- Adds Dark, Purple, Red themes
-- Replaces the Engrish icons and deletes the weird stock backgrounds
-	- Greys-Dark icons by tenlevels
-- Adds SwitchStartTab app to load Favorites at startup -Thanks Nevrdid!
-- Swaps the top function buttons to be select/start -Thanks Nevrdid!
-- Adds several helpful apps from Steve of Tomato OS
-	- Remove and restore the clicking menu sound
-	- Stop and start the background music
-	- Sort the Favorite list
+To use the hotkeys in RetroArch as intended:
+Go to Apps --> FnKey Setting and set the left lighted button to "D-Pad & Joystick toggle."  Uncheck the other options.
+Go to Apps --> FnKey Setting and set the right lighted button to "LED ON/OFF toggle."  Uncheck the other options.
+
+Notes:  The right lighted function key will be your hotkey in RetroArch.  Keep this in mind when setting the options for it.
+hotkey + L1 is savestate.
+hotkey + R1 is loadstate.
+hotkey + L2 is prev saveslot.
+hotkey + R2 is next saveslot.
+There's a few other hotkeys, and you can look at them in RetroArch, but those are the most important IMO.
+To get to the RetroArch options, press (plus) + (minus) while in a game and select advanced menu. 
+
+Notes on PICO-8.  If you would like to use the true PICO-8 system, you will need to follow the instructions in /Emus/PICO8/
+
+Notes on cheats.  If you would like cheats, extract "/RetroArch/.retroarch/cheats.7z" into "/RetroArch/.retroarch/cheats/"
+
+Notes on button swapping.  You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.
+
+
+
+FIRMWARE
+
+As of this writing, I am using Brick firmware 1.0.6.  Here are the instructions on how to update to it.
+Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215
+1.  Download "firmware_Brick_tg3040_....zip"
+2.  Format your MicroSD card to FAT32.
+3.  Find the file "trimui_tg3040.awimg" and copy it to the root directory of your MicroSD card.
+4.  Turn off your Brick.
+5.  Insert the MicroSD card.
+6.  Turn on the Brick and let it update.
+7.  When done, delete the file.

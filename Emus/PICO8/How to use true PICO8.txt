@@ -1,0 +1,1 @@
+So, it looks like the true PICO-8 is a paid program.  By default, this will run the FAKE-08 system.  If you would like the true PICO-8 system, you will need to replace the contents of this folder with the contents of the "truePICO-8.zip" file.  You will also need to place the files you can find on the web into the "/PICO8_Wrapper/bin" file
