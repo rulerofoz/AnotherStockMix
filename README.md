@@ -28,6 +28,7 @@ Notes on button swapping.  You can rename "trimui optional" to "trimui" to swap 
 FIRMWARE
 
 As of this writing, I am using Brick firmware 1.0.6.  Here are the instructions on how to update to it.
+I highly recommend it, because there are some changes to charging.
 Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215
 1.  Download "firmware_Brick_tg3040_....zip"
 2.  Format your MicroSD card to FAT32.
@@ -36,7 +37,6 @@ Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-202412
 5.  Insert the MicroSD card.
 6.  Turn on the Brick and let it update.
 7.  When done, delete the file.
-
 
 
 
