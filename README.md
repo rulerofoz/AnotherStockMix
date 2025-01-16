@@ -1,8 +1,3 @@
-Warning:  It's reported that this is broken...  I'll fix it later today.  When this message is gone, is when I've made sure it works!
-
-
-
-
 AnotherStockMix for TrimUI Brick
 
 This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.
@@ -11,6 +6,7 @@ You can even start with a blank microSD card!
 INSTRUCTIONS
 
 Copy these files to a FAT32 or exFAT formatted MicroSD card.
+Extract the "extract here for MAME.7z" file into the root also.  For some reason, that core is too huge for GitHub.
 You are responsible for adding any ROMs to the Roms folder.
 
 To use the hotkeys in RetroArch as intended:
@@ -19,7 +15,7 @@ Go to Apps --> FnKey Setting and set the right lighted button to "LED ON/OFF tog
 
 NOTES
 
-Notes:  The right lighted function key will be your hotkey in RetroArch.  Keep this in mind when setting the options for it.
+The right lighted function key will be your hotkey in RetroArch.  Keep this in mind when setting the options for it.
 hotkey + L1 is savestate.
 hotkey + R1 is loadstate.
 hotkey + L2 is prev saveslot.
@@ -27,11 +23,11 @@ hotkey + R2 is next saveslot.
 There's a few other hotkeys, and you can look at them in RetroArch, but those are the most important IMO.
 To get to the RetroArch options, press (plus) + (minus) while in a game and select advanced menu. 
 
-Notes on PICO-8.  If you would like to use the true PICO-8 system, you will need to follow the instructions in /Emus/PICO8/
+Notes on PICO-8:  If you would like to use the true PICO-8 system, you will need to follow the instructions in /Emus/PICO8/
 
-Notes on cheats.  If you would like cheats, extract "/RetroArch/.retroarch/cheats.7z" into "/RetroArch/.retroarch/cheats/"
+Notes on cheats:  If you would like cheats, extract "/RetroArch/.retroarch/cheats.7z" into "/RetroArch/.retroarch/cheats/"
 
-Notes on button swapping.  You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.
+Notes on button swapping:  You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.
 
 FIRMWARE
 
