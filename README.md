@@ -1,3 +1,8 @@
+Warning:  It's reported that this is broken...  I'll fix it later today.  When this message is gone, is when I've made sure it works!
+
+
+
+
 AnotherStockMix for TrimUI Brick
 
 This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.
