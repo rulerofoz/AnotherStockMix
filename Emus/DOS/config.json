@@ -10,7 +10,7 @@
     "useswap":0,
     "shortname":0,
     "hidebios":1,
-    "extlist":"img|com|bat|exe|zip|7z",
+    "extlist":"img|com|bat|exe|zip|7z|dosz|iso|cue|ins|ima|vhd|jrc|tc|m3u|m3u8|conf",
     "launchlist": [
         {
             "name": "DOSbox-pure",
