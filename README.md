@@ -48,5 +48,6 @@ CREDITS
   
 trimui for the default code  
 costlyclick for the original stockmix  
-ro8inmorgan for LEDControl
+ro8inmorgan for LEDControl  
 RWGlix for the extra rom categories  
+pajarorrojo for the bakckground images  
