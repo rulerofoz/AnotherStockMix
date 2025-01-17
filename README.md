@@ -1,68 +1,74 @@
-NEW FIXES  
-  
-A lot of SO files didn't upload.  It's fixed now.  SORRY!!!  
-I just got the backgrounds working for each of the emulators!  
-  
-AnotherStockMix for TrimUI Brick  
-  
-This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.  
-You can even start with a blank microSD card!  
-  
-INSTRUCTIONS  
-  
-1. Copy these files to a FAT32 or exFAT formatted MicroSD card.  
-2. Extract the "extract here for MAME.7z" file into the root also.  For some reason, that core is too huge for GitHub.  
-You are responsible for adding any ROMs to the Roms folder.  
-  
-To use the hotkeys in RetroArch as intended:  
-Go to Apps --> FnKey Setting and set the left lighted button to "D-Pad & Joystick toggle."  Uncheck the other options.  
-Go to Apps --> FnKey Setting and set the right lighted button to "LED ON/OFF toggle."  Uncheck the other options.  
-  
-NOTES  
-  
-The right lighted function key will be your hotkey in RetroArch.  Keep this in mind when setting the options for it.  
-hotkey + L1 is savestate.  
-hotkey + R1 is loadstate.  
-hotkey + L2 is prev saveslot.  
-hotkey + R2 is next saveslot.  
-There's a few other hotkeys, and you can look at them in RetroArch, but those are the most important IMO.  
-To get to the RetroArch options, press (plus) + (minus) while in a game and select advanced menu.   
-  
-Notes on PICO-8:  If you would like to use the true PICO-8 system, you will need to follow the instructions in /Emus/PICO8/  
+# AnotherStockMix for TrimUI Brick
 
-Notes on cheats:  If you would like cheats, extract "/RetroArch/.retroarch/cheats.7z" into "/RetroArch/.retroarch/cheats/"  
+This is a semi-one step custom firmware for the TrimUI Brick. Just copy it to your microSD card. You can even start with a blank microSD card!
 
-Notes on button swapping:  You can rename "trimui optional" to "trimui" to swap the two lighted buttons with the plus/minus buttons.  I don't like it, but I left it here in case you do.  
-  
-FIRMWARE  
-  
-As of this writing, I am using Brick firmware 1.0.6.  Here are the instructions on how to update to it. I highly recommend it, because there are some changes to charging.  
-  
-Found here:  https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215  
-1.  Download "firmware_Brick_tg3040_....zip"  
-2.  Format your MicroSD card to FAT32.  
-3.  Find the file "trimui_tg3040.awimg" and copy it to the root directory of your MicroSD card.  
-4.  Turn off your Brick.  
-5.  Insert the MicroSD card.  
-6.  Turn on the Brick and let it update.  
-7.  When done, delete the file.  
-  
-CREDITS  
-  
-trimui for the default code  
-costlyclick for the original stockmix  
-ro8inmorgan for LEDControl  
-RWGlix for the extra rom categories  
-pajarorrojo for the bakckground images  
+## New Fixes
 
+- **File Uploads**: Fixed the issue where a lot of SO files didn't upload. Sorry for the inconvenience!
+- **Backgrounds**: Emulators now have working backgrounds!
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+## Instructions
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+1. **Format** your MicroSD card to FAT32 or exFAT.
+2. **Copy** these files to the card.
+3. **Extract** the `extract here for MAME.7z` file into the root directory (this core is too large for GitHub).
+4. **Add ROMs** to the **Roms** folder.
 
+### RetroArch Hotkeys
+
+- Go to `Apps --> FnKey Setting`:
+  - Set the left lighted button to `D-Pad & Joystick toggle`. Uncheck the other options.
+  - Set the right lighted button to `LED ON/OFF toggle`. Uncheck the other options.
+- **Note**: The right lighted function key will be your hotkey in RetroArch. Keep this in mind when setting the options for it:
+  - `hotkey + L1` is savestate.
+  - `hotkey + R1` is loadstate.
+  - `hotkey + L2` is prev saveslot.
+  - `hotkey + R2` is next saveslot.
+  - For more hotkeys, check RetroArch.
+
+### Accessing RetroArch Options
+
+Press `(plus) + (minus)` while in a game and select the advanced menu.
+
+### PICO-8 Notes
+
+To use the true PICO-8 system, follow the instructions in `/Emus/PICO8/`.
+
+### Cheats Notes
+
+If you want cheats, extract `/RetroArch/.retroarch/cheats.7z` into `/RetroArch/.retroarch/cheats/`.
+
+### Button Swapping Notes
+
+Rename `trimui optional` to `trimui` to swap the two lighted buttons with the plus/minus buttons. This is optional.
+
+## Firmware
+
+I recommend updating to Brick firmware 1.0.6 as there are some improvements to charging.
+
+### Update Instructions
+
+1. Download the firmware from [here](https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215) - `firmware_Brick_tg3040_....zip`.
+2. Format your MicroSD card to FAT32.
+3. Copy `trimui_tg3040.awimg` to the root directory of your MicroSD card.
+4. Turn off your Brick.
+5. Insert the MicroSD card and turn on the Brick.
+6. Let it update, then delete the file.
+
+## Credits
+
+- **trimui**: Default code
+- **costlyclick**: Original stockmix
+- **ro8inmorgan**: LEDControl
+- **RWGlix**: Extra ROM categories
+- **pajarorrojo**: Background images
+
+---
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].  
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/  
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png  
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
