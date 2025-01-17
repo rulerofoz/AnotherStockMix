@@ -1,7 +1,10 @@
-NEW FIXES!  A lot of SO files didn't upload.  It's fixed now.  SORRY!!!  
-
-AnotherStockMix for TrimUI Brick
-
+NEW FIXES  
+  
+A lot of SO files didn't upload.  It's fixed now.  SORRY!!!  
+I just got the backgrounds working for each of the emulators!  
+  
+AnotherStockMix for TrimUI Brick  
+  
 This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.  
 You can even start with a blank microSD card!  
   
