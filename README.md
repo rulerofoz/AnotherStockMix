@@ -1,3 +1,6 @@
+Found some issues.  Will fix tomorrow!  The so files didn't transfer.  Sorry!  File manager is affected.  Also 2048.
+
+
 AnotherStockMix for TrimUI Brick
 
 This is a semi-one step custom firmware for the Trimui Brick.  Just copy it to your micro SD card.  
