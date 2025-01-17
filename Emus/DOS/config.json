@@ -1,8 +1,8 @@
 {
     "label":"DOSBox",
-    "icontop":"../_theme/ic-gba.png",
+    "icontop":"../_theme/ic-dos.png",
     "icon":"",
-    "background":"../_theme/bg-gba.png",
+    "background":"../_theme/bg-dos.png",
     "themecolor":"FF00FF",
     "launch":"launch.sh",
     "rompath":"../../Roms/DOS",
