@@ -1,5 +1,4 @@
-Found some issues.  Will fix tomorrow!  The so files didn't transfer.  Sorry!  File manager is affected.  Also 2048.
-
+NEW FIXES!  A lot of SO files didn't upload.  It's fixed now.  SORRY!!!  
 
 AnotherStockMix for TrimUI Brick
 
