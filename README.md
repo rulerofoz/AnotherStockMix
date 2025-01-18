@@ -4,7 +4,7 @@
 
 1. **Download** this repo.
 2. **Copy** these files to a **FAT32** or **exFAT** formatted card.
-2. **Extract** the `Step 2 - Extract Here.7z` file into the root directory.  You can delete it (and its parts) after extraction.
+2. **Extract** the `Step 2 - Extract Here.7z.001` file into the root directory.  You can delete it (and its parts) after extraction.
 3. **Add ROMs** to the **Roms** folder.
 
 ## New Fixes
