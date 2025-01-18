@@ -1,6 +1,11 @@
 # AnotherStockMix for TrimUI Brick
 
-This is a semi-one step custom firmware for the TrimUI Brick. Just copy it to your microSD card. You can even start with a blank microSD card!
+## Instructions
+
+1. **Download** this repo.
+2. **Copy** these files to a **FAT32** or **exFAT** formatted card.
+2. **Extract** the `Step 2 - Extract Here.7z` file into the root directory.  You can delete it (and its parts) after extraction.
+3. **Add ROMs** to the **Roms** folder.
 
 ## New Fixes
 
@@ -21,9 +26,6 @@ This is a semi-one step custom firmware for the TrimUI Brick. Just copy it to yo
 
 ### RetroArch Hotkeys
 
-- Go to `Apps --> FnKey Setting`:
-  - Set the left lighted button to `D-Pad & Joystick toggle`. Uncheck the other options.
-  - Set the right lighted button to `LED ON/OFF toggle`. Uncheck the other options.
 - **Note**: The right lighted function key will be your hotkey in RetroArch. Keep this in mind when setting the options for it:
   - `hotkey + L1` is savestate.
   - `hotkey + R1` is loadstate.
@@ -33,7 +35,7 @@ This is a semi-one step custom firmware for the TrimUI Brick. Just copy it to yo
 
 ### Accessing RetroArch Options
 
-Press `(plus) + (minus)` while in a game and select the advanced menu.
+Press either the `Trimui Button` or `(plus) + (minus)` while in a game and select the advanced menu.
 
 ### PICO-8 Notes
 
@@ -41,7 +43,7 @@ To use the true PICO-8 system, follow the instructions in `/Emus/PICO8/`.
 
 ### Cheats Notes
 
-If you want cheats, extract `/RetroArch/.retroarch/cheats.7z` into `/RetroArch/.retroarch/cheats/`.
+If you'd like cheats, connect your Brick to the internet and download them with RetroArch.
 
 ### Button Swapping Notes
 
