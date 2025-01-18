@@ -6,12 +6,9 @@ This is a semi-one step custom firmware for the TrimUI Brick. Just copy it to yo
 
 - **File Uploads**: Fixed the issue where a lot of SO files didn't upload. Sorry for the inconvenience!
 - **Backgrounds**: Emulators now have working backgrounds!
+- **Backgrounds**: The backgrounds are also darker and the correct aspect ratio!
 
 ## Future Plans
-
-- I'm going to darken the emulator background pictures so you can see the labels better.
-
-- I'm also going to fix their aspect ratios.
 
 - I'd love to figure out how to get PrtMaster on here.  Might have to "borrow" it from another repo.
 
