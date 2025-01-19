@@ -4,7 +4,7 @@
     "icontop":"../_theme/ic-ppsspp.png",
     "icon":"",
     "background":"../_theme/bg-ppsspp.png",
-    "launch":"launch_performance_1.15.4.sh",
+    "launch":"launch_vulkan.sh",
     "themecolor":"64A8BD",
     "rompath":"../../Roms/PSP",
     "imgpath":"../../Imgs/PSP",
