@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. **Download** this repo.
+1. **Download** this repo.  (I wouldn't even mess with the releases section)
 2. **Copy** these files to a **FAT32** or **exFAT** formatted card.
 2. **Extract** the `Step 2 - Extract Here.7z.001` file into the root directory.  You can delete it (and its parts) after extraction.
 3. **Add ROMs** to the **Roms** folder.
@@ -16,13 +16,6 @@
 ## Future Plans
 
 - I'd love to figure out how to get PrtMaster on here.  Might have to "borrow" it from another repo.
-
-## Instructions
-
-1. **Format** your MicroSD card to FAT32 or exFAT.
-2. **Copy** these files to the card.
-3. **Extract** the `extract here for MAME.7z` file into the root directory (this core is too large for GitHub).
-4. **Add ROMs** to the **Roms** folder.
 
 ### RetroArch Hotkeys
 
