@@ -1,4 +1,4 @@
-# AnotherStockMix for TrimUI Brick
+# AnotherStockMix CFW for TrimUI Brick
 
 A one-step SD card setup for the TrimUI Brick.  I have really been enjoying this project, please fill free to comment in the discussions or report issues if you find them!
 
