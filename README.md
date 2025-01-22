@@ -15,6 +15,7 @@
 
 ## New Fixes
 
+- **Display**: Fixed the notifications in retroarch from being so tiny!
 - **File Uploads**: Fixed the issue where a lot of SO files didn't upload. Sorry for the inconvenience!
 - **Backgrounds**: Emulators now have working backgrounds!
 - **Backgrounds**: The backgrounds are also darker and the correct aspect ratio!
