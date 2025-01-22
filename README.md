@@ -1,5 +1,7 @@
 # AnotherStockMix for TrimUI Brick
 
+A one-step SD card setup for the TrimUI Brick.  I have really been enjoying this project, please fill free to comment in the discussions or report issues if you find them!
+
 ## Instructions (quick method)
 
 1. **Download** `onestep.zip` from the releases section.
@@ -13,6 +15,10 @@
 3. **Extract** the `Step 2 - Extract Here.7z.001` file into the root directory.  You can delete it (and its parts) after extraction.
 4. **Add ROMs** to the **Roms** folder.
 
+## Updating
+
+You can typically just overwrite what you have with the contents of this repo to update.  Keep in mind, if you overwite the PICO-8 Folder you will have to set that up again.
+
 ## New Fixes
 
 - **Display**: Fixed the notifications in retroarch from being so tiny!
@@ -22,7 +28,7 @@
 
 ## Future Plans
 
-- I'd love to figure out how to get PrtMaster on here.  Might have to "borrow" it from another repo.
+- I'd love to figure out how to get PortMaster on here.  Might have to "borrow" it from another repo.
 
 ### RetroArch Hotkeys
 
