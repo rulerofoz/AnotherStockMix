@@ -1,17 +1,17 @@
 # AnotherStockMix for TrimUI Brick
 
-## Instructions (best method)
-
-1. **Download** this repo.  (not from the release section)
-2. **Copy** these files to a **FAT32** or **exFAT** formatted card.  (if you use Rufus to format, do not use the GPT table.)
-3. **Extract** the `Step 2 - Extract Here.7z.001` file into the root directory.  You can delete it (and its parts) after extraction.
-4. **Add ROMs** to the **Roms** folder.
-
 ## Instructions (quick method)
 
 1. **Download** `onestep.zip` from the releases section.
 2. **Extract** it to a **FAT32** or **exFAT** formatted card.  (if you use Rufus to format, do not use the GPT table.)
 3. **Add ROMs** to the **Roms** folder.
+
+## Instructions (latest code method)
+
+1. **Download** this repo.  (not from the release section)
+2. **Copy** these files to a **FAT32** or **exFAT** formatted card.  (if you use Rufus to format, do not use the GPT table.)
+3. **Extract** the `Step 2 - Extract Here.7z.001` file into the root directory.  You can delete it (and its parts) after extraction.
+4. **Add ROMs** to the **Roms** folder.
 
 ## New Fixes
 
