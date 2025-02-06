@@ -41,7 +41,12 @@
             "name": "PPSSPP-1.15.4 Performance Mode",
             "name.ch.lang": "PPSSPP-1.15.4性能模式",
             "launch": "launch_performance_1.15.4.sh"
-        }
+        },
+        {
+            "name": "PPSSPP Original",
+            "name.ch.lang": "PPSSPP GL正常模式",
+            "launch": "launch_original.sh"
+        },
     ]
 }
     
