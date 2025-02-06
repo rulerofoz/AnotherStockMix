@@ -46,7 +46,7 @@
             "name": "PPSSPP Original",
             "name.ch.lang": "PPSSPP GL正常模式",
             "launch": "launch_original.sh"
-        },
+        }
     ]
 }
     
