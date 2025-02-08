@@ -2,7 +2,7 @@
 echo "===================================="
 echo $0 $*
 RA_DIR=/mnt/SDCARD/RetroArch
-EMU_DIR=/mnt/SDCARD/Emus/WSC
+EMU_DIR=/mnt/SDCARD/Emus/WS
 cd $RA_DIR/
 
 $EMU_DIR/cpufreq.sh
