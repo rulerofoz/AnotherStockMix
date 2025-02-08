@@ -1,5 +1,5 @@
 {
-    "label":"FC DiskSystem",
+    "label":"Nintendo FDS",
     "label.ch.lang":"FDS",
     "icontop":"../_theme/ic-fds.png",
     "icon":"",
@@ -7,8 +7,8 @@
     "effectsh":"effect.sh",
     "themecolor":"991615",
     "launch":"launch.sh",
-    "rompath":"../../Roms/FDS",
-    "imgpath":"../../Imgs/FDS",
+    "rompath":"../../Roms/Nintendo_FDS",
+    "imgpath":"../../Imgs/Nintendo_FDS",
     "useswap":0,
     "shortname":0,
     "hidebios":0,

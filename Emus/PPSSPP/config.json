@@ -1,13 +1,13 @@
 {
-    "label":"PSP",
+    "label":"Sony PSP",
     "label.ch.lang":"PSP",
     "icontop":"../_theme/ic-ppsspp.png",
     "icon":"",
     "background":"../_theme/bg-ppsspp.png",
     "launch":"launch_vulkan.sh",
     "themecolor":"64A8BD",
-    "rompath":"../../Roms/PSP",
-    "imgpath":"../../Imgs/PSP",
+    "rompath":"../../Roms/Sony_PSP",
+    "imgpath":"../../Imgs/Sony_PSP",
     "useswap":0,
     "shortname":0,
     "hidebios":0,
@@ -41,11 +41,6 @@
             "name": "PPSSPP-1.15.4 Performance Mode",
             "name.ch.lang": "PPSSPP-1.15.4性能模式",
             "launch": "launch_performance_1.15.4.sh"
-        },
-        {
-            "name": "PPSSPP Original",
-            "name.ch.lang": "PPSSPP GL正常模式",
-            "launch": "launch_original.sh"
         }
     ]
 }

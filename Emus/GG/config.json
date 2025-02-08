@@ -1,12 +1,12 @@
 {
-"label":"Game Gear",
+"label":"Sega GG",
 "icontop":"../_theme/ic-gg.png",
 "icon":"",
 "background":"../_theme/bg-gg.png",
 "themecolor":"FFFFFF",
 "launch":"launch.sh",
-"rompath":"../../Roms/GG",
-"imgpath":"../../Imgs/GG",
+"rompath":"../../Roms/Sega_Game_Gear",
+"imgpath":"../../Imgs/Sega_Game_Gear",
 "useswap":1,
 "shortname":0,
 "hidebios":1

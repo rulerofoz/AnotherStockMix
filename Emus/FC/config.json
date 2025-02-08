@@ -1,5 +1,5 @@
 {
-    "label":"NES",
+    "label":"Nintendo NES",
     "label.ch.lang":"FC",
     "icontop":"../_theme/ic-fc.png",
     "icon":"",
@@ -7,8 +7,8 @@
     "effectsh":"effect.sh",
     "themecolor":"991615",
     "launch":"launch.sh",
-    "rompath":"../../Roms/FC",
-    "imgpath":"../../Imgs/FC",
+    "rompath":"../../Roms/Nintendo_NES",
+    "imgpath":"../../Imgs/Nintendo_NES",
     "useswap":0,
     "shortname":0,
     "hidebios":0,

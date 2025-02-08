@@ -1,0 +1,14 @@
+{
+"label":"Bandai WS",
+"icontop":"../_theme/ic-wsc.png",
+"icon":"",
+"background":"../_theme/bg-ws.png",
+"themecolor":"3C4593",
+"launch":"launch.sh",
+"rompath":"../../Roms/Bandai_WonderSwan",
+"imgpath":"../../Imgs/Bandai_WonderSwan",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"wsc|ws|zip|7z"
+}

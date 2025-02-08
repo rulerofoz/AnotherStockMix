@@ -5,8 +5,8 @@
 "background":"../_theme/bg-lynx.png",
 "themecolor":"88FF88",
 "launch":"launch.sh",
-"rompath":"../../Roms/LYNX",
-"imgpath":"../../Imgs/LYNX",
+"rompath":"../../Roms/Atari_Lynx",
+"imgpath":"../../Imgs/Atari_Lynx",
 "useswap":1,
 "shortname":0,
 "hidebios":1

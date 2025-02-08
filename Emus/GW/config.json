@@ -5,8 +5,8 @@
 "background":"../_theme/bg-gw.png",
 "themecolor":"FF0000",
 "launch":"launch.sh",
-"rompath":"../../Roms/GW",
-"imgpath":"../../Imgs/GW",
+"rompath":"../../Roms/Game_and_Watch",
+"imgpath":"../../Imgs/Game_and_Watch",
 "useswap":1,
 "shortname":0,
 "hidebios":1

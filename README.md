@@ -17,17 +17,21 @@ A one-step SD card setup for the TrimUI Brick.  I have really been enjoying this
 
 ## Updating
 
-You can typically just overwrite what you have with the contents of this repo to update.  Keep in mind, if you overwite the PICO-8 Folder you will have to set that up again.
+I've reworked the folder names for games from 1.0 to 1.1.  You will have to move them to the correct folders for them to work.  
+Also, I've noticed that the Brick automatically wants to put in a few folders like FC, SFC, etc. when you boot it up.  Just ignore them.  IDK how to remove them.
 
 ## New Fixes
 
+- **Naming**: I've renamed many of the emulators to prioritize the brand name first.  This allows them to sort better.  e.g. Nintendo SNES will be near Nintendo NES.
+- **Folders**: I've restructured the Roms and Imgs folders to make rom positioning more intuitive.
+- **Formats**: I've gone through and converted all the CR LF commands in the text files to LF.  The Brick doesn't work with CR LF.
 - **Display**: Fixed the notifications in retroarch from being so tiny!
 - **File Uploads**: Fixed the issue where a lot of SO files didn't upload. Sorry for the inconvenience!
 - **Backgrounds**: Emulators now have working backgrounds!
-- **Backgrounds**: The backgrounds are also darker and the correct aspect ratio!
 
 ## Future Plans
 
+- I see a NeoGeo CD emulator in there.  I'll try to get that going soon.
 - I'd love to figure out how to get PortMaster on here.  Might have to "borrow" it from another repo.
 
 ### RetroArch Hotkeys
@@ -65,7 +69,7 @@ I recommend updating to Brick firmware 1.0.6 as there are some improvements to c
 2. Format your MicroSD card to FAT32.
 3. Copy `trimui_tg3040.awimg` to the root directory of your MicroSD card.
 4. Turn off your Brick.
-5. Insert the MicroSD card and turn on the Brick.
+5. Insert the MicroSD card and turn on the Brick while holding Vol (-).
 6. Let it update, then delete the file.
 
 ## Credits

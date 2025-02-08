@@ -5,8 +5,8 @@
 "background":"../_theme/bg-atari7800.png",
 "themecolor":"A569BD",
 "launch":"launch.sh",
-"rompath":"../../Roms/ATARI7800",
-"imgpath":"../../Imgs/ATARI7800",
+"rompath":"../../Roms/Atari_7800",
+"imgpath":"../../Imgs/Atari_7800",
 "useswap":0,
 "shortname":0,
 "hidebios":0
