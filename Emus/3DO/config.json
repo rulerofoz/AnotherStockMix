@@ -1,0 +1,14 @@
+{
+"label":"Panasonic 3DO",
+"icontop":"../_theme/ic-3do.png",
+"icon":"",
+"background":"../_theme/bg-3do.png",
+"themecolor":"00FF00",
+"launch":"launch.sh",
+"rompath":"../../Roms/Panasonic_3DO",
+"imgpath":"../../Imgs/Panasonic_3DO",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"bin|cue|iso|chd"
+}
