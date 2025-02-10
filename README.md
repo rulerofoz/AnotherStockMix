@@ -34,6 +34,52 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 - I see a NeoGeo CD emulator in there.  I'll try to get that going soon.
 - I'd love to figure out how to get PortMaster on here.  Might have to "borrow" it from another repo.
 
+## Available Emulators
+
+- Arcade
+- Atari 2600
+- Atari 7800
+- Atari Lynx
+- Bandai WonderSwan
+- Bandai WonderSwan Color
+- Capcom Play System I
+- Capcom Play System II
+- Capcom Play System III
+- DOSBox
+- EasyRPG
+- FinalBurn Neo
+- Game & Watch
+- IGS PolyGame Master
+- MAME
+- MAME2003PLUS
+- MAME2010
+- NEC TurboGrafx-16
+- NEC TurboGrafx-CD
+- Nintendo 64
+- Nintendo DS
+- Nintendo Famicom Disk System
+- Nintendo Game Boy
+- Nintendo Game Boy Advance
+- Nintendo Game Boy Color
+- Nintendo NES
+- Nintendo Super Game Boy
+- Nintendo SNES
+- OpenBOR
+- Panasonic 3DO
+- PICO-8
+- Sega 32X
+- Sega CD
+- Sega Dreamcast
+- Sega Game Gear
+- Sega Master System
+- Sega Saturn
+- Sega SG-1000
+- SNK Neo Geo
+- SNK Neo Geo Pocket
+- Sony Playstation
+- Sony PSP
+- Videos
+
 ### RetroArch Hotkeys
 
 - **Note**: The right lighted function key will be your hotkey in RetroArch. Keep this in mind when setting the options for it:
