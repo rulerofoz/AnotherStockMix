@@ -11,5 +11,5 @@ $EMU_DIR/cpuswitch.sh
 #disable netplay
 NET_PARAM=
 
-HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $RA_DIR/.retroarch/cores/mgba_libretro.so "$*"
-#HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $EMU_DIR/libmgba.so "$*"
+HOME=$RA_DIR/ $RA_DIR/retroarch $NET_PARAM -L $RA_DIR/.retroarch/cores/mgba_libretro.so "$*"
+#HOME=$RA_DIR/ $RA_DIR/retroarch $NET_PARAM -L $EMU_DIR/libmgba.so "$*"

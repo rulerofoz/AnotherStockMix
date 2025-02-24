@@ -10,6 +10,6 @@ $EMU_DIR/cpuswitch.sh
 #disable netplay
 NET_PARAM=
 
-HOME=$RA_DIR/ $RA_DIR/ra64.trimui -v $NET_PARAM -L $RA_DIR/.retroarch/cores/mame2010_libretro.so "$*"
+HOME=$RA_DIR/ $RA_DIR/ra64.trimui $NET_PARAM -L $RA_DIR/.retroarch/cores/mame2010_libretro.so "$*"
 
-#HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $RA_DIR/.retroarch/cores/mame2003_plus_libretro.so "$*"
+#HOME=$RA_DIR/ $RA_DIR/retroarch $NET_PARAM -L $RA_DIR/.retroarch/cores/mame2003_plus_libretro.so "$*"

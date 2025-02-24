@@ -7,4 +7,4 @@ $EMU_DIR/cpufreq.sh
 $EMU_DIR/cpuswitch.sh
 
 #force using fbneo
-HOME=$RA_DIR/ $RA_DIR/ra64.trimui -v $NET_PARAM -L $RA_DIR/.retroarch/cores/fbneo_libretro.so "$*"
+HOME=$RA_DIR/ $RA_DIR/ra64.trimui $NET_PARAM -L $RA_DIR/.retroarch/cores/fbneo_libretro.so "$*"

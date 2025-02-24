@@ -12,4 +12,4 @@ cd $RA_DIR/
 NET_PARAM=
 
 touch /tmp/trimui_inputd/input_dpad_to_joystick
-HOME=$RA_DIR/ $RA_DIR/ra64.trimui -v $NET_PARAM -L $RA_DIR/.retroarch/cores/parallel_n64_libretro.so "$*"
+HOME=$RA_DIR/ $RA_DIR/ra64.trimui $NET_PARAM -L $RA_DIR/.retroarch/cores/parallel_n64_libretro.so "$*"

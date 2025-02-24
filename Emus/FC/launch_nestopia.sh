@@ -11,5 +11,5 @@ echo ====================================================================
 echo $RA_DIR/.retroarch/cores/nestopia_libretro.so
 echo ====================================================================
 
-HOME=$RA_DIR/ $RA_DIR/ra64.trimui -v $NET_PARAM -L $RA_DIR/.retroarch/cores/nestopia_libretro.so "$*"
+HOME=$RA_DIR/ $RA_DIR/ra64.trimui $NET_PARAM -L $RA_DIR/.retroarch/cores/nestopia_libretro.so "$*"
 
