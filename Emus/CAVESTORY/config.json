@@ -1,0 +1,14 @@
+{
+    "label":"Cave Story",
+    "icontop":"../_theme/ic-cs.png",
+    "icon":"",
+    "background":"../_theme/bg-cs.png",
+    "themecolor":"FFFF88",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/Cave_Story",
+    "imgpath":"../../Imgs/Cave_Story",
+    "useswap": 1,
+    "shortname": 0,
+    "hidebios": 1,
+    "extlist":"exe"
+}
