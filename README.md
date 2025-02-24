@@ -22,6 +22,7 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 
 ## New Fixes
 
+- **Extra Cores**:  The one step will now have all of the cores I can find placed into it.  I don't have all the launchers implemented, but you can access them if you run RetroArch Manually.
 - **Naming**: I've renamed many of the emulators to prioritize the brand name first.  This allows them to sort better.  e.g. Nintendo SNES will be near Nintendo NES.
 - **Folders**: I've restructured the Roms and Imgs folders to make rom positioning more intuitive.
 - **Formats**: I've gone through and converted all the CR LF commands in the text files to LF.  The Brick doesn't work with CR LF.
