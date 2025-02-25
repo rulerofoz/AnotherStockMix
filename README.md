@@ -46,6 +46,7 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 - Capcom Play System I
 - Capcom Play System II
 - Capcom Play System III
+- Cave Story (NXEngine)
 - DOSBox
 - EasyRPG
 - FinalBurn Neo
