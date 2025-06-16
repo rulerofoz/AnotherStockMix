@@ -107,10 +107,6 @@ If you'd like cheats, connect your Brick to the internet and download them with 
 
 Rename `trimui optional` to `trimui` to swap the two lighted buttons with the plus/minus buttons. This is optional.
 
-## Firmware
-
-I recommend updating to Brick firmware 1.0.6 as there are some improvements to charging.
-
 ### PortMaster Instructions
 
 1. Format an SD Card to FAT32.  Make sure your partition table is MSDOS and not GPT.
@@ -122,6 +118,10 @@ I recommend updating to Brick firmware 1.0.6 as there are some improvements to c
 7. This takes a while, so be patient...
 8. DON'T DELETE WHAT'S ON YOUR SD CARD.
 9. Place AnotherStockMix onto the SD CARD as it is.  Or if you are like me and want to use exFAT, make a backup of the current card first and copy it back when you are done installing AnotherStockMix.
+
+## Firmware
+
+I recommend updating to Brick firmware 1.0.6 as there are some improvements to charging.
 
 ### Update Instructions
 
