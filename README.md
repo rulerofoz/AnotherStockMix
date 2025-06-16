@@ -22,6 +22,7 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 
 ## New Fixes
 
+- **Portmaster**: Portmaster works!  I've provided instructions later in this readme.
 - **Extra Cores**:  The one step will now have all of the cores I can find placed into it.  I don't have all the launchers implemented, but you can access them if you run RetroArch Manually.
 - **Naming**: I've renamed many of the emulators to prioritize the brand name first.  This allows them to sort better.  e.g. Nintendo SNES will be near Nintendo NES.
 - **Folders**: I've restructured the Roms and Imgs folders to make rom positioning more intuitive.
@@ -33,7 +34,6 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 ## Future Plans
 
 - I see a NeoGeo CD emulator in there.  I'll try to get that going soon.
-- I'd love to figure out how to get PortMaster on here.  Might have to "borrow" it from another repo.
 
 ## Available Emulators
 
@@ -110,6 +110,18 @@ Rename `trimui optional` to `trimui` to swap the two lighted buttons with the pl
 ## Firmware
 
 I recommend updating to Brick firmware 1.0.6 as there are some improvements to charging.
+
+### PortMaster Instructions
+
+1. Format an SD Card to FAT32.  Make sure your partition table is MSDOS and not GPT.
+2. Extract [TRIMUI\_EX.zip](https://github.com/kloptops/TRIMUI_EX/releases) to the root of the SD Card.
+3. Find the *trimui\_tg3040.awimg* file inside[ TG3040\_Brick\_firmware\_v\*.zip ](https://github.com/trimui/firmware_brick/releases)and place it on the root of the SD Card.
+4. Place (do NOT extract) the [trimui.portmaster.zip](https://github.com/PortsMaster/PortMaster-GUI/releases) file on the root of your SD Card.
+5. Place the SD Card into your powered off Brick.
+6. Boot the Brick by pressing VOL_DOWN + POWER.  Continue to old VOL_DOWN until the green status bar appears.
+7. This takes a while, so be patient...
+8. DON'T DELETE WHAT'S ON YOUR SD CARD.
+9. Place AnotherStockMix onto the SD CARD as it is.  Or if you are like me and want to use exFAT, make a backup of the current card first and copy it back when you are done installing AnotherStockMix.
 
 ### Update Instructions
 
