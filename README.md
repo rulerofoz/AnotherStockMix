@@ -81,6 +81,7 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 - Sony Playstation
 - Sony PSP
 - Videos
+- Others are available manually via RetroArch config.
 
 ### RetroArch Hotkeys
 
