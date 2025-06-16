@@ -114,7 +114,7 @@ Rename `trimui optional` to `trimui` to swap the two lighted buttons with the pl
 3. Find the *trimui\_tg3040.awimg* file inside[ TG3040\_Brick\_firmware\_v\*.zip ](https://github.com/trimui/firmware_brick/releases)and place it on the root of the SD Card.
 4. Place (do NOT extract) the [trimui.portmaster.zip](https://github.com/PortsMaster/PortMaster-GUI/releases) file on the root of your SD Card.
 5. Place the SD Card into your powered off Brick.
-6. Boot the Brick by pressing VOL_DOWN + POWER.  Continue to old VOL_DOWN until the green status bar appears.
+6. Boot the Brick by pressing VOL_DOWN + POWER.  Continue to hold VOL_DOWN until the green status bar appears.
 7. This takes a while, so be patient...
 8. DON'T DELETE WHAT'S ON YOUR SD CARD.
 9. Place AnotherStockMix onto the SD CARD as it is.  Or if you are like me and want to use exFAT, make a backup of the current card first and copy it back when you are done installing AnotherStockMix.
