@@ -133,6 +133,7 @@ I recommend updating to Brick firmware 1.0.6 as there are some improvements to c
 - **ro8inmorgan**: LEDControl
 - **RWGlix**: Extra ROM categories
 - **pajarorrojo**: Background images
+- **hugorosario**: BrickTools https://github.com/hugorosario/BrickTools
 
 ---
 
