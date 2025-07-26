@@ -4,29 +4,10 @@ A one-step SD card setup for the TrimUI Brick.  I have really been enjoying this
 
 ## Instructions
 
-1. **Download** `onestep.zip` from the releases section.
+1. **Download** `onestep.7z` from the releases section.
 2. **Extract** it to a **FAT32** or **exFAT** formatted card.  (if you use Rufus to format, do not use the GPT table.)
 3. **Add ROMs** to the **Roms** folder.
-
-## Updating
-
-I've reworked the folder names for games from 1.0 to 1.1.  You will have to move them to the correct folders for them to work.  
-Also, I've noticed that the Brick automatically wants to put in a few folders like FC, SFC, etc. when you boot it up.  Just ignore them.  IDK how to remove them.
-
-## New Fixes
-
-- **Portmaster**: Portmaster works!  I've provided instructions later in this readme.
-- **Extra Cores**:  The one step will now have all of the cores I can find placed into it.  I don't have all the launchers implemented, but you can access them if you run RetroArch Manually.
-- **Naming**: I've renamed many of the emulators to prioritize the brand name first.  This allows them to sort better.  e.g. Nintendo SNES will be near Nintendo NES.
-- **Folders**: I've restructured the Roms and Imgs folders to make rom positioning more intuitive.
-- **Formats**: I've gone through and converted all the CR LF commands in the text files to LF.  The Brick doesn't work with CR LF.
-- **Display**: Fixed the notifications in retroarch from being so tiny!
-- **File Uploads**: Fixed the issue where a lot of SO files didn't upload. Sorry for the inconvenience!
-- **Backgrounds**: Emulators now have working backgrounds!
-
-## Future Plans
-
-- I see a NeoGeo CD emulator in there.  I'll try to get that going soon.
+4. **Add Screenshots** to the **Imgs** folder (optional).
 
 ## Available Emulators
 
@@ -74,7 +55,7 @@ Also, I've noticed that the Brick automatically wants to put in a few folders li
 - Sony Playstation
 - Sony PSP
 - Videos
-- Others are available manually via RetroArch config.
+- MANY MORE, but they are available manually via the standalone RetroArch app.
 
 ### RetroArch Hotkeys
 
@@ -115,16 +96,14 @@ Rename `trimui optional` to `trimui` to swap the two lighted buttons with the pl
 
 ## Firmware
 
-I recommend updating to Brick firmware 1.0.6 as there are some improvements to charging.
+I recommend updating to Brick firmware 1.1.1.  It adds some improvements to charging over 1.0.5, and more features than 1.0.6.  I have already added the SD Card stock patches to AnotherStockMix.
 
 ### Update Instructions
 
-1. Download the firmware from [here](https://github.com/trimui/firmware_brick/releases/tag/v1.0.6-20241215) - `firmware_Brick_tg3040_....zip`.
-2. Format your MicroSD card to FAT32.
-3. Copy `trimui_tg3040.awimg` to the root directory of your MicroSD card.
-4. Turn off your Brick.
-5. Insert the MicroSD card and turn on the Brick while holding Vol (-).
-6. Let it update, then delete the file.
+1. Extract `Firmware 1.1.0 for Brick.7z` to the root of a FAT32 formatted SD Card.
+2. Turn off your Brick.
+3. Insert the MicroSD card and turn on the Brick while holding Vol (-).
+4. Let it update, then you can delete the file.
 
 ## Credits
 
