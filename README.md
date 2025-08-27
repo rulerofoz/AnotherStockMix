@@ -96,7 +96,7 @@ Rename `trimui optional` to `trimui` to swap the two lighted buttons with the pl
 
 ## Firmware
 
-I recommend updating to Brick firmware 1.1.1.  It adds some improvements to charging over 1.0.5, and more features than 1.0.6.  I have already added the SD Card stock patches to AnotherStockMix.
+I recommend updating to Brick firmware 1.1.0.  It adds some improvements to charging over 1.0.5, and more features than 1.0.6.  I have already added the SD Card stock patches to AnotherStockMix.
 
 ### Update Instructions
 
